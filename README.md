@@ -1,7 +1,7 @@
 # TNeGA_internship
 Works and codes
 
-##About waitKey and mask number 
+#About waitKey and mask number 
 First, cv2.waitKey(1) & 0xFF will be executed.
 
 Doing wait 1 ms for user press.
